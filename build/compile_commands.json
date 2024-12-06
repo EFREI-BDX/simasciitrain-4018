@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/train.dir/TypeWagon.cpp.o -c /home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/TypeWagon.cpp",
+  "file": "/home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/TypeWagon.cpp"
+},
+{
+  "directory": "/home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/train.dir/TypeLocomotive.cpp.o -c /home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/TypeLocomotive.cpp",
+  "file": "/home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/TypeLocomotive.cpp"
+},
+{
+  "directory": "/home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/train.dir/AbstractWagon.cpp.o -c /home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/AbstractWagon.cpp",
+  "file": "/home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/AbstractWagon.cpp"
+},
+{
+  "directory": "/home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/train.dir/FreightWagon.cpp.o -c /home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/FreightWagon.cpp",
+  "file": "/home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/FreightWagon.cpp"
+},
+{
+  "directory": "/home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/train.dir/main.cpp.o -c /home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/main.cpp",
+  "file": "/home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/main.cpp"
+},
+{
+  "directory": "/home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/train.dir/UtilityWagon.cpp.o -c /home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/UtilityWagon.cpp",
+  "file": "/home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/UtilityWagon.cpp"
+},
+{
+  "directory": "/home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/train.dir/PassengerWagon.cpp.o -c /home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/PassengerWagon.cpp",
+  "file": "/home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/PassengerWagon.cpp"
+},
+{
+  "directory": "/home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/train.dir/AbstractLocomotive.cpp.o -c /home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/AbstractLocomotive.cpp",
+  "file": "/home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/AbstractLocomotive.cpp"
+},
+{
+  "directory": "/home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/train.dir/ElectricLocomotive.cpp.o -c /home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/ElectricLocomotive.cpp",
+  "file": "/home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/ElectricLocomotive.cpp"
+},
+{
+  "directory": "/home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/train.dir/GasolineLocomotive.cpp.o -c /home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/GasolineLocomotive.cpp",
+  "file": "/home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/GasolineLocomotive.cpp"
+},
+{
+  "directory": "/home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/train.dir/Wagons.cpp.o -c /home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/Wagons.cpp",
+  "file": "/home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/Wagons.cpp"
+},
+{
+  "directory": "/home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/train.dir/Train.cpp.o -c /home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/Train.cpp",
+  "file": "/home/furiza/school/ProgrammationCEtCpp/simasciitrain-4018/Train.cpp"
+}
+]
