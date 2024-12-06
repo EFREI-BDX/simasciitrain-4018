@@ -1,5 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/4HQm7bOn)
+
 # Sim Ascii Train
+
+---
+
+## Done with Louis Maury!
+
+---
 
 # TP C++
 
@@ -67,5 +74,3 @@ int main() {
 
 Ce code vous permettra de tester votre implémentation. Mettez en commentaire les lignes qui ne fonctionnent pas pour le
 moment et décommentez les au fur et à mesure que vous implémentez les classes.
-
-
